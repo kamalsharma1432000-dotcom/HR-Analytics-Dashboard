@@ -25,8 +25,7 @@ Microsoft Excel / Power BI
  * Dashboard Design
  * Data Visualization
 ---
-## Dashboard Preview
-https://github.com/kamalsharma1432000-dotcom/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
+## Dashboard Preview(![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
 ---
 ## Files Included
  * HR Analytics Dashboard File
